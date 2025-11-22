@@ -3,3 +3,6 @@ numpy
 seaborn
 scikit-learn
 imblearn
+tensorflow==2.12.0
+tensorboard
+streamlit
